@@ -1,4 +1,4 @@
-# hyperf-tracer-test
+# hyperf-tracer-app
 
 ## tracer 测试 协程支持
 
@@ -17,8 +17,8 @@ http://localhost:9501/co
 
 ### 原来
 
-![图片(1.png)
+![图片(https://github.com/wayhood/hyperf-tracer-app/blob/main/1.png)
 
 ### 现在
 
-![图片(2.png)
+![图片(https://github.com/wayhood/hyperf-tracer-app/blob/main/2.png)
