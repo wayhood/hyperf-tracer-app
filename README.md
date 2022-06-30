@@ -17,8 +17,8 @@ http://localhost:9501/co
 
 ### 原来
 
-![图片(https://raw.githubusercontent.com/wayhood/hyperf-tracer-app/main/1.png)
+![图片](https://raw.githubusercontent.com/wayhood/hyperf-tracer-app/main/1.png)
 
 ### 现在
 
-![图片(https://raw.githubusercontent.com/wayhood/hyperf-tracer-app/main/2.png)
+![图片](https://raw.githubusercontent.com/wayhood/hyperf-tracer-app/main/2.png)
